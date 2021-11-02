@@ -2,4 +2,4 @@ module github.com/komangsu/app-hello
 
 go 1.17
 
-require github.com/komangsu/go-module-hello v1.0.0 // indirect
+require github.com/komangsu/go-module-hello v1.1.0
